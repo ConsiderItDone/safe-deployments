@@ -1,6 +1,6 @@
 import GnosisSafeL2130 from '../assets/v1.3.0/gnosis_safe_l2.json';
-import GnosisSafe130 from '../assets/v1.3.0/gnosis_safe.json';
-import GnosisSafe120 from '../assets/v1.2.0/gnosis_safe.json';
+import GnosisSafe130 from '../assets/v1.3.0/gnosis_safe';
+import GnosisSafe120 from '../assets/v1.2.0/gnosis_safe';
 import GnosisSafe111 from '../assets/v1.1.1/gnosis_safe.json';
 import GnosisSafe100 from '../assets/v1.0.0/gnosis_safe.json';
 import { findDeployment } from '../utils';
